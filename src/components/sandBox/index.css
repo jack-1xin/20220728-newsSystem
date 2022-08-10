@@ -1,0 +1,18 @@
+.logo {
+  line-height: 32px;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.3);
+  font-size: 18px;
+  margin: 10px;
+}
+
+.sideMenu-container {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+}
+
+.menu-structure {
+  flex: 1;
+  overflow: auto;
+}
